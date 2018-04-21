@@ -1,0 +1,4 @@
+﻿  Header.cpp
+c:\users\kapil bedekar\source\repos\digit\digit\header.cpp(81): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kapil bedekar\source\repos\digit\digit\header.cpp(229): warning C4244: 'initializing': conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+  Digit.vcxproj -> C:\Users\Kapil Bedekar\source\repos\Digit\Debug\Digit.exe
